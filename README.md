@@ -1,0 +1,1 @@
+# Minimal go bazel example
