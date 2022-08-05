@@ -1,3 +1,3 @@
 module github.com/devrev/minimal-go-bazel
 
-go 1.17
+go 1.19
